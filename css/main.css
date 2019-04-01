@@ -389,7 +389,7 @@ nav.active .menu-container{
     }
 }
 .features .feature-box:hover{
-    transform: translateY(-1.5rem) scale(1.04);
+    transform: translateY(-.5rem) scale(1.04);
 }
 /*-------------------End Features------------*/
 /*-------------------Start Tours------------*/
